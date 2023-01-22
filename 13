@@ -1,1 +1,7 @@
-https://raw.githubusercontent.com/enzoschu/Filme/main/Filme
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="url da imagem" group-title="Grupo", 1
+https://navioalto.ga/d/MP4/RedeCanais/RedeCanais/RCServer17/ondemand/UMADVGDAEXTRDNRAT01EP01.mp4?mu3zAQc9HC3GbwJq=qMBYbAKCT9uKNqXauwWaxA&3U1G7qaTxrPbalZnEx=1674376076
+
+#EXTINF:-1 tvg-logo="url da imagem" group-title="Grupo", 2
+https://omoi.tk/d/MP4/RedeCanais/RedeCanais/RCServer17/ondemand/UMADVGDAEXTRDNRAT01EP02.mp4?mu3zAQc9HC3GbwJq=dzOHfEQ3k4SVyX0HVbcLlQ&3U1G7qaTxrPbalZnEx=1674376117
